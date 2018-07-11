@@ -33,9 +33,11 @@ additional information to identify the individual. Simillary for any object we c
 6) Make these 3D objects available to users who use our platform 
 
 
-(This article is for educational purposes and license to use this process is solely held by Digibaad)
 
 NB. The process above can be simplified to make digital objects from real world objects that are flat like paintings, carpets etc.
 
 
 Author: Abdur Rehman Khan 
+
+(This article is for educational purposes and license to use this process is solely held by Digibaad)
+
