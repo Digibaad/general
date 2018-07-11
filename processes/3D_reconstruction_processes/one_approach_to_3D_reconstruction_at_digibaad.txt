@@ -1,0 +1,40 @@
+Digibaad is converging the physical and digital realities. 
+
+One of the areas we envisage doing this is by creating digital 3D objects from real world objects and also displaying digital 3D objects using new elecronic consumer devices (for example computers, smart phones, etc.)
+
+
+One example of a novel 3D reconstruction pipeline created by a computer scientists and AI experts at Digibaad is as follows:
+
+
+1) Capture user input usign a device that has a camera and can install our software (such as a smart phone) and preferrably other sensors to enhance user experience and reconstruction  
+
+	- If available on device with the help of Augmented Reality isolate the object to be reconstructed (not necessary but would be helpful , any items, i.e. chair , bowl , human body etc.)
+	- Record visual information from a 360 degree circle/path around the object 
+	- Capture additional information from Augmented Reality interaction, sensors, etc. in parallel
+
+
+2) Take as input information above and agree on common coordiante framework and fine tune important parameters such as camera position, etc.
+
+
+3) Create depth maps for the visual input using all the information in 1) and 2) (various algorithms using classical techniques and/or artificial intelligence developed in house can be used)
+
+
+4) Then calculate the point cloud (various algorithms using classical techniques and/or artificial intelligence developed in house can be used)
+
+
+5) Segment the point cloud to isolate the desired object
+
+
+5) Generate a digital 3D object from this segmented point cloud; the type of object generated will vary depending on need. It could for example be a detailed mesh , which displays
+all the tecture of an object (i.e. the whole humand body with facial features etc.), or could simply be an avatar that provides simply the shape and size of human body but no
+additional information to identify the individual. Simillary for any object we can have a plethora of digital 3D objects
+
+
+6) Make these 3D objects available to users who use our platform 
+
+
+
+NB. The process above can be simplified to make digital objects from real world objects that are flat like paintings, carpets etc.
+
+
+Author: Abdur Rehman Khan 
